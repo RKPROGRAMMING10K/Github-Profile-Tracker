@@ -1,0 +1,6 @@
+{
+  "name": "GitHub Profile Stats & Contribution Snake",
+  "description": "Visualize your GitHub contributions and stats with a live dynamic contribution snake animation and premium UI statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
